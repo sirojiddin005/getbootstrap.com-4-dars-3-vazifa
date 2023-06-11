@@ -38,7 +38,7 @@ const CardsData = [
 class Main extends Component {
   
     render() {   
-        return <div className="container-fluid text-center p-5">
+        return <div className="container-fluid text-center">
         <p className='textt'>Pricing</p>
         <p className='text'>Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
         

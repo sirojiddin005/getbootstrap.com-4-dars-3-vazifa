@@ -1,5 +1,5 @@
 .text {
-  padding: 20px 305px !important;
+  padding: 20px 150px !important;
   color: rgba(0, 0, 0, 0.678);
   font-size: 20px;
 }
@@ -15,7 +15,7 @@
 }
 @media(max-width: 700px) {
      .text {
-       padding: 10px !important;
+       padding: 12px !important;
    }
    header {
     flex-direction: column;

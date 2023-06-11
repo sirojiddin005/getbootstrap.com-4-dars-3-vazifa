@@ -32,7 +32,7 @@ const menu =[
 
 class Footer extends Component {
     render() {
-        return <footer className="px-5">
+        return <footer>
         <div className='row text-start'>
         <div className="col-5 col-sm-3 col-lg-2 p-0 pb-3 m-4 mt-0">
           <img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" alt="" />
