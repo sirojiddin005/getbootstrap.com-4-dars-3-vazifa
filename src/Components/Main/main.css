@@ -1,0 +1,11 @@
+.row {
+    padding: 50px;
+    justify-content: center;
+  }
+  .row hr {
+    width: 955px;
+  }
+  .row img {
+    width: 25px;
+    margin-bottom: 10px;
+  }
